@@ -1,0 +1,41 @@
+_repo: Etude-sur-la-Franc-Maconnerie_75221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dupanloup, Félix
+    aliases:
+    - Dupanloup, Felix
+    - Dupanloup, Félix Antoine Philibert
+    - Dupanloup, Mgr.
+    - Dupanloup, Monseigneur
+    - Felix, Bishop of Orleans
+    birthdate: 1802
+    deathdate: 1878
+    gutenberg_agent_id: '40469'
+    url: http://www.gutenberg.org/2009/agents/40469
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/F%C3%A9lix_Dupanloup
+    - https://en.wikipedia.org/wiki/F%C3%A9lix_Dupanloup
+description: ''
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75221'
+language: fr
+pgterms:marc904: https://polona.pl/item-view/68641fca-ad33-4efd-8b3b-305bb1268889
+pgterms:marc905: 20240217132254dupanloup
+pgterms:marc906: '1875'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bCharles Douniol, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freemasons'
+- !lcsh 'Freemasonry -- Religious aspects -- Catholic Church'
+- !lcc 'HS'
+- GITenberg
+title: Étude sur la Franc-Maçonnerie
+url: http://www.gutenberg.org/ebooks/75221
