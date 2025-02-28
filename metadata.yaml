@@ -1,5 +1,8 @@
 _repo: Etude-sur-la-Franc-Maconnerie_75221
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75221-h/images/cover.jpg
 creator:
   author:
     agent_name: Dupanloup, Félix
@@ -17,6 +20,8 @@ creator:
     - https://fr.wikipedia.org/wiki/F%C3%A9lix_Dupanloup
     - https://en.wikipedia.org/wiki/F%C3%A9lix_Dupanloup
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75221#Etude-sur-la-Franc-Maconnerie
 gutenberg_issued: '2025-01-26'
 gutenberg_type: Text
 identifiers:
